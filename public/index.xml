@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>https://nneedlemouse.github.io/NNeedlemouse.Web/</link>
+    <link>https://nneedlemouse.github.io/NNeedlemouse.Games/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 19:58:10 -0500</lastBuildDate><atom:link href="https://nneedlemouse.github.io/NNeedlemouse.Web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 19:58:10 -0500</lastBuildDate><atom:link href="https://nneedlemouse.github.io/NNeedlemouse.Games/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>SecondPost</title>
-      <link>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/secondpost/</link>
+      <link>https://nneedlemouse.github.io/NNeedlemouse.Games/blog/secondpost/</link>
       <pubDate>Mon, 30 Jan 2023 19:58:10 -0500</pubDate>
       
-      <guid>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/secondpost/</guid>
+      <guid>https://nneedlemouse.github.io/NNeedlemouse.Games/blog/secondpost/</guid>
       <description>bruh haha</description>
     </item>
     
     <item>
       <title>FirstPost</title>
-      <link>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/firstpost/</link>
+      <link>https://nneedlemouse.github.io/NNeedlemouse.Games/blog/firstpost/</link>
       <pubDate>Mon, 30 Jan 2023 19:49:42 -0500</pubDate>
       
-      <guid>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/firstpost/</guid>
+      <guid>https://nneedlemouse.github.io/NNeedlemouse.Games/blog/firstpost/</guid>
       <description>heyo wassuuu my website</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://nneedlemouse.github.io/NNeedlemouse.Web/about/</link>
+      <link>https://nneedlemouse.github.io/NNeedlemouse.Games/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://nneedlemouse.github.io/NNeedlemouse.Web/about/</guid>
+      <guid>https://nneedlemouse.github.io/NNeedlemouse.Games/about/</guid>
       <description>Lol</description>
     </item>
     
