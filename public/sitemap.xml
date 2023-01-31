@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/</loc>
+    <lastmod>2023-01-30T19:58:10-05:00</lastmod>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/</loc>
+    <lastmod>2023-01-30T19:58:10-05:00</lastmod>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/secondpost/</loc>
+    <lastmod>2023-01-30T19:58:10-05:00</lastmod>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/blog/firstpost/</loc>
+    <lastmod>2023-01-30T19:49:42-05:00</lastmod>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/about/</loc>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/categories/</loc>
+  </url><url>
+    <loc>https://nneedlemouse.github.io/NNeedlemouse.Web/tags/</loc>
+  </url>
+</urlset>
