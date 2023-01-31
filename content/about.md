@@ -3,5 +3,4 @@ title: "About"
 description: "The about section"
 ---
 
-Lol
-
+My website for games n stuff
